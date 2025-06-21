@@ -1,0 +1,4 @@
+CREATE TABLE registros (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    dados TEXT NOT NULL
+);
